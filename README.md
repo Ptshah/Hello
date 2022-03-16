@@ -18,4 +18,4 @@
 | API1 | API 1.1 | Authorised user should sign up succesfully with response code 200. | Enter correct credentials  | Response code is 200 |  |  |  |
 |  | API 1.2 | Authorised user enters invalid password , response code 401. | Invalid c redentials  | R response code is 401. |  |  |  |
 
-|  | API 1.3 | Valid password and invalid username then response code 401. | Response code is 401 on invalid credentials.  | response code is 2401 |  |  |  |
+|  | API 1.3 | Valid password and invalid username then response code 401. | Response code is 401 on invalid credentials. | response code is 2401 |  |  |  |
